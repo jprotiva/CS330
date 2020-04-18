@@ -1,1 +1,1 @@
-# This is programer J.D. Protiva's Projectrs for Eastern Oregon Universitys CS330 Database Management Systems class 
+# This is programer J.D. Protiva's Project's for Eastern Oregon University's CS330 Database Management Systems class 
